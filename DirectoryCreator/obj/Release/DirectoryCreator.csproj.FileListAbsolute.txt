@@ -1,0 +1,13 @@
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\bin\Release\DirectoryCreator.exe.config
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\bin\Release\DirectoryCreator.exe
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\bin\Release\DirectoryCreator.pdb
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Release\DirectoryCreator.Form1.resources
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Release\DirectoryCreator.Properties.Resources.resources
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Release\DirectoryCreator.csproj.GenerateResource.Cache
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Release\DirectoryCreator.exe
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Release\DirectoryCreator.pdb
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\bin\Release\DirectoryCreator.exe.manifest
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\bin\Release\DirectoryCreator.application
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Release\DirectoryCreator.TrustInfo.xml
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Release\DirectoryCreator.exe.manifest
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Release\DirectoryCreator.application

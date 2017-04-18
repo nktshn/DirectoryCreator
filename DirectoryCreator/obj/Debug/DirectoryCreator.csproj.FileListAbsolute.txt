@@ -1,0 +1,9 @@
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\bin\Debug\DirectoryCreator.exe.config
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\bin\Debug\DirectoryCreator.exe
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\bin\Debug\DirectoryCreator.pdb
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.csprojResolveAssemblyReference.cache
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.Form1.resources
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.Properties.Resources.resources
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.csproj.GenerateResource.Cache
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.exe
+e:\yandexdisk\docs\visual studio 2015\Projects\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.pdb
